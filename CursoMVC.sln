@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{60497011-0FBC-4D59-9177-6C034C173C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{C580251A-8587-4341-B5FC-763DF6A724D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{C2513ED9-BC5E-4656-8CF1-639DC3C38F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60497011-0FBC-4D59-9177-6C034C173C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60497011-0FBC-4D59-9177-6C034C173C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60497011-0FBC-4D59-9177-6C034C173C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60497011-0FBC-4D59-9177-6C034C173C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C580251A-8587-4341-B5FC-763DF6A724D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C580251A-8587-4341-B5FC-763DF6A724D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C580251A-8587-4341-B5FC-763DF6A724D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C580251A-8587-4341-B5FC-763DF6A724D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2513ED9-BC5E-4656-8CF1-639DC3C38F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2513ED9-BC5E-4656-8CF1-639DC3C38F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2513ED9-BC5E-4656-8CF1-639DC3C38F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2513ED9-BC5E-4656-8CF1-639DC3C38F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7EBB77F-499C-4DDC-BC10-ACB028B7C769}
+	EndGlobalSection
+EndGlobal
