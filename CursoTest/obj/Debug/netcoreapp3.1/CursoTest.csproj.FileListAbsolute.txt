@@ -247,3 +247,4 @@ C:\mvc\CursoMVC\CursoTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Micros
 C:\mvc\CursoMVC\CursoTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\mvc\CursoMVC\CursoTest\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
 C:\mvc\CursoMVC\CursoTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\mvc\CursoMVC\CursoTest\bin\Debug\netcoreapp3.1\CursoAPI.StaticWebAssets.xml
